@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "dndtools-98e94"
-  }
+  },
+  "targets": {
+    "dndtools-98e94": {
+      "hosting": {
+        "shop": [
+          "dndtools-shop"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
